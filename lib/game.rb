@@ -24,7 +24,7 @@ class Game < Gosu::Window
     end
     @player.move
   end
-#test
+  
   def draw
     @player.draw
     @background_image.draw(0, 0, 0)

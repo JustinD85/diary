@@ -1,3 +1,2 @@
 /.DS_Store
-/node_modules/json5/lib/stringify.js
-/node_modules/.bin/json5
+node_modules/*
